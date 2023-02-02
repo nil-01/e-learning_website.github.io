@@ -71,7 +71,7 @@ color: #1D1D1F;
 
  .Part .Part4 {
     background-image: url("./img/Rectangle\ 3820.png");
-    background-size:cover;
+    background-size:content;
     width: 100%;
     max-height: 70%;
     height:100%;
