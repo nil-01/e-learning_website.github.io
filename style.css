@@ -1,0 +1,230 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.col-sm-6 .header{ 
+padding-top: 5%; 
+width:80%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+color: #1D1D1F;
+}
+
+.col-sm-6 .paragraph{
+padding-top: 2%;
+width:66%;
+font-family: 'SVN-Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #4F4F4F;
+}
+.col-sm-8 .Part1{
+   background-color: #DDF3FF; 
+   border-radius: 16px;
+  
+}
+.Category{
+    
+width:50%x;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+text-transform: uppercase;
+color: #1D1D1F;
+}
+
+
+.Part .Part2 {
+    background-image: url("./img/Rectangle\ 3823.png");
+    background-size:cover;
+    height:250px;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+ }
+ .Part2 .top-left{
+    top:0;
+    left:0;
+ }
+
+ .Part .Part3 {
+    background-image: url("./img/Rectangle\ 3822.png");
+    background-size:cover;
+    height: 250px;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    border-radius: 16px
+ }
+
+ .Part2 .top-left{
+    top:0;
+    left:0;
+ }
+
+ .Part .Part4 {
+    background-image: url("./img/Rectangle\ 3820.png");
+    background-size:cover;
+    width: 100%;
+    max-height: 576px;
+    height:100%;
+    position: relative;
+    background-repeat: no-repeat;
+    border-radius: 16px
+ }
+
+ .Part4 .top-left{
+    top:0;
+    left:0;
+ }
+
+ .top-left .Head_Part_1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #1D1D1F;
+
+ }
+ .Part1 .Head_Part_1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #1D1D1F;
+
+ }
+ .Part1 .P_Part_1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4F4F4F;
+ }
+
+ .top-left .P_Part_1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+/* form conatiner */
+.table_container{
+    margin-left: 18%;
+    margin-right: 18%;
+
+}
+.col-sm-6 .image1{
+    margin: auto;
+}
+
+.col-sm-6 .image2{
+    margin: auto;
+    
+}
+
+.h3{
+ 
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0.1px;
+color: #252B42;
+
+}
+
+/* Hover Effect */
+
+
+.zoom:hover {
+   color:aqua;
+   background-color: antiquewhite; 
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+  transition: all 0.5s ease; 
+  border-radius: 10px;
+ }
+
+ .col-sm-8 .zoom2:hover  {
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+
+ .Part .Part2:hover , .Head_Part_1:hover {
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+
+ .Part .Part3:hover, .Head_Part_1:hover{
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+
+ .col-sm-4 .Part4:hover, .Head_Part_1:hover{
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+
+ .Part .Part2:hover , .P_Part_1:hover {
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+ .Part .Part3:hover, .P_Part_1:hover{
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+ .col-sm-4 .Part4:hover, .P_Part_1:hover{
+   box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+ }
+
+
+ button:hover, a:hover{
+      color:aqua;
+      background-color: antiquewhite; 
+      box-shadow: 4px 15px 10px -10px rgba(31, 31, 31, 0.8);
+   transition: all 0.5s ease; 
+   border-radius: 10px;
+}
+
+.Img_rct {
+   margin-top: -72px;
+ }
+
+ .Img_Sc{
+   margin-left: -11px;
+ }
+
+ @media (max-width: 991.98px) { 
+   .Img_Sc {
+      margin-left: 0px;
+    }
+  }
+ @media (max-width: 991.98px) { 
+   .Img_rct {
+      margin-top: 0px;
+    }
+  }
